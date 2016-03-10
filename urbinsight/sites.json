@@ -1,0 +1,26 @@
+[
+{
+    "pk": 2, 
+    "model": "sites.site", 
+    "fields": {
+        "domain": "cusco.urbinsight.com", 
+        "name": "cusco"
+    }
+},
+{
+    "pk": 1, 
+    "model": "sites.site", 
+    "fields": {
+        "domain": "geonode.urbinsight.com", 
+        "name": "Master"
+    }
+},
+{
+    "pk": 3, 
+    "model": "sites.site", 
+    "fields": {
+        "domain": "medellin.urbinsight.com", 
+        "name": "medellin"
+    }
+}
+]

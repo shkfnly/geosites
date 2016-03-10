@@ -1,0 +1,11 @@
+urbinsight/__init__.py
+urbinsight/local_settings.py
+urbinsight/post_settings.py
+urbinsight/pre_settings.py
+urbinsight/urls.py
+urbinsight.egg-info/PKG-INFO
+urbinsight.egg-info/SOURCES.txt
+urbinsight.egg-info/dependency_links.txt
+urbinsight.egg-info/not-zip-safe
+urbinsight.egg-info/requires.txt
+urbinsight.egg-info/top_level.txt

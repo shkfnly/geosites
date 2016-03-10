@@ -1,0 +1,6 @@
+*~
+*.pyc
+.DS_Store
+logs
+development.db
+local_settings.py
