@@ -9,18 +9,7 @@ from geonode.contrib import geosites
 
 # Directory of master site - for GeoSites it's two up
 GEOSITES_ROOT = os.path.dirname(geosites.__file__)
-#PROJECT_ROOT = os.path.dirname(urbinsight.__file__)
 SITE_ROOT = os.path.dirname(__file__)
-
-#TEMPLATE_DIRS = (
-#   os.path.join(SITE_ROOT, 'templates/'),
-#   os.path.join(GEONODE_ROOT, 'templates/')
-#)
-
-#STATICFILES_DIRS = (
-#    os.path.join(SITE_ROOT, 'static/'),
-#    os.path.join(GEONODE_ROOT, 'static/')
-#)
 
 try:
     # read in project pre_settings
