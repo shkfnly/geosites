@@ -4,4 +4,4 @@
 logs
 development.db
 local_settings.py
-urbinsight/post_settings.py
+/urbinsight/post_settings.py
