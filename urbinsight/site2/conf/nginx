@@ -12,7 +12,6 @@
 #    server_name ALTERNATENAMES $SITEURL;
 #    return 301 $scheme://$SITEURL$request_uri;
 #}
-
 server {
     listen 80;
     server_name cusco.urbinsight.com;

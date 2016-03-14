@@ -20,7 +20,6 @@ except:
 
 SITE_ID = 2  # flake8: noqa
 SITE_NAME = 'cusco'
-SITENAMES = 'cusco'
 # Should be unique for each site
 SECRET_KEY = "fbk3CC3N6jt1AU9mGIcI"
 
