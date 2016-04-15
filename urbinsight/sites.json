@@ -1,10 +1,18 @@
 [
 {
+    "pk": 4, 
+    "model": "sites.site", 
+    "fields": {
+        "domain": "abudhabi.urbinsight.com", 
+        "name": "Abu Dhabi"
+    }
+},
+{
     "pk": 2, 
     "model": "sites.site", 
     "fields": {
         "domain": "cusco.urbinsight.com", 
-        "name": "cusco"
+        "name": "Cusco"
     }
 },
 {
@@ -12,7 +20,15 @@
     "model": "sites.site", 
     "fields": {
         "domain": "geonode.urbinsight.com", 
-        "name": "Master"
+        "name": "Urbinsight"
+    }
+},
+{
+    "pk": 5, 
+    "model": "sites.site", 
+    "fields": {
+        "domain": "lima.urbinsight.com", 
+        "name": "lima"
     }
 },
 {
@@ -20,7 +36,7 @@
     "model": "sites.site", 
     "fields": {
         "domain": "medellin.urbinsight.com", 
-        "name": "medellin"
+        "name": "Medellin"
     }
 }
 ]
